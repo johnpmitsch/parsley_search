@@ -1,10 +1,9 @@
-import SearchBar from "./SearchBar";
+import ResultCard from "./ResultCard";
 
 const SearchResults = ({ results }) => {
-    console.log(results);
     return (<>
-        {results && results.map(result => {
-            return <div key={result.title}>{ result.title }</div>
+        {results && results.map((result, i) => {
+            return <ResultCard key={i} result={result} />
         })}
     </>);
 }

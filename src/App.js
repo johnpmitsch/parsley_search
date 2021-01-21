@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import search from  './search';
 import SearchBar from './SearchBar';
 import SearchResults from './SearchResults';
+import './App.css'
 
 function App() {
   const [query, setQuery] = useState("")
@@ -11,13 +12,14 @@ function App() {
 
   useEffect(() => {
     if (query) {
-      setError(null); // reset error state
+      setError(null); // reset error state before sending new query
       search(query, days, setResults, (e) => setError(e));
     }
-  }, [query, days, search, setResults, setError])
+  }, [query, days])
 
   return (
     <div className="App">
+      <h1>Arstechnica search</h1>
       <SearchBar days={days} setDays={setDays} query={query} setQuery={setQuery} />
       {query ?
         (<div>

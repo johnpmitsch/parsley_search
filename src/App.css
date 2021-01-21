@@ -1,0 +1,5 @@
+/* don't show link colors */
+a {
+   text-decoration: none;
+   color: black;
+} 

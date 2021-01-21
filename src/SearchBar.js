@@ -1,5 +1,3 @@
-import { getSuggestedQuery } from "@testing-library/react";
-
 const SearchBar = ({ query, setQuery }) => {
     return (
         <div>
