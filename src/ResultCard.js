@@ -8,16 +8,16 @@ const ResultCard = ({ result }) => {
     return (
         <a href={url} target="_blank" rel="noreferrer noopener">
             <div className="card">
-                <div class={"title"}>{title}</div>
-                <div class="image-box"><img src={thumbnail} /></div>
-                <div class="information">
-                    <div class="information-row">
+                <div className="image-box"><img alt="" src={thumbnail} /></div>
+                <div className={"title"}>{title}</div>
+                <footer>
+                    <div className="information-row left">
                         {author}
                     </div>
-                    <div class="information-row">
+                    <div className="information-row right">
                         <i>{formattedDate}</i>
                     </div>
-                </div>
+                </footer>
                 <p></p>
             </div>
         </a>
