@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import search from  './search';
 import SearchBar from './SearchBar';
-import SearchResults from './SearchResults';
+import SearchResultsDisplay from './SearchResultsDisplay';
 import './App.css'
 
 function App() {
@@ -19,18 +19,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Arstechnica search</h1>
+      <h1>Arstechnica Article Search</h1>
       <SearchBar days={days} setDays={setDays} query={query} setQuery={setQuery} />
-      {query ?
-        (<div>
-            {error ? 
-              error :
-              (<SearchResults results={results} />)
-            }
-            {results.length === 0 && <div>{'No results found!'}</div>}
-        </div>) :
-        (<div>{'Please enter a search term above'}</div>)
-      }
+      <div className={'results-container'}>
+        <SearchResultsDisplay results={results} query={query} error={error} />
+      </div>
    </div>
   );
 }

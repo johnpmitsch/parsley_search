@@ -7,11 +7,14 @@ const getDates = (elapsed) => {
     return [formatDate(today), formatDate(prevDate)];
 }
 
+const daysSinceEpoch = new Date()/24/60/60/1000;
+
 const getSearchURL = (query, days) => {
     let url = `https://api.parsely.com/v2/search?apikey=arstechnica.com&q=${query}`;
 
-    if (days) {
-        const [prev, today] = getDates(days);
+    // making sure we are not trying to subtract more days than Date allows
+    if (days && days < daysSinceEpoch) {
+        const [today, prev] = getDates(days);
         url += `&pub_date_start=${prev}`
         url += `&pub_date_end=${today}`
     }

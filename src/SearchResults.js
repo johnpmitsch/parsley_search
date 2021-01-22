@@ -1,11 +1,18 @@
 import ResultCard from "./ResultCard";
+import "./SearchResults.css";
 
 const SearchResults = ({ results }) => {
-    return (<>
-        {results && results.map((result, i) => {
-            return <ResultCard key={i} result={result} />
-        })}
-    </>);
+    if (results.length > 0) {
+        return (
+            <div class="flex-container">
+                {results.map((result, i) => {
+                    return <ResultCard key={i} result={result} />
+                })}
+            </div>
+        );
+    } else {
+        return <div>{"No results found!"}</div>
+    } 
 }
 
 export default SearchResults;
