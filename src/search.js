@@ -9,8 +9,14 @@ const getDates = (elapsed) => {
 
 const daysSinceEpoch = new Date() / 24 / 60 / 60 / 1000;
 
+const sanitizeString = (str) => {
+  str = str.replace(/[^a-z0-9 .,_-]/gim, '');
+  return str.trim();
+};
+
 const getSearchURL = (query, days) => {
-  let url = `https://api.parsely.com/v2/search?apikey=arstechnica.com&q=${query}`;
+  const sanitizedQuery = sanitizeString(query);
+  let url = `https://api.parsely.com/v2/search?apikey=arstechnica.com&q=${sanitizedQuery}`;
 
   // making sure we are not trying to subtract more days than Date allows
   if (days && days < daysSinceEpoch) {
