@@ -2,7 +2,7 @@
 
 A search of Arstechnica articles using Parse.ly API
 
-Deployed at https://parsely-search.vercel.app
+Deployed at https://parsley-search-jfu94syu8.vercel.app/ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). No additional production dependencies were added
 

@@ -8,6 +8,7 @@ const SearchBar = ({ query, setQuery, days, setDays }) => {
           id="query"
           name="query"
           type="search"
+          aria-label="search bar"
           placeholder="Search..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
@@ -19,7 +20,9 @@ const SearchBar = ({ query, setQuery, days, setDays }) => {
           id="days"
           name="days"
           type="number"
-          value={days}
+          aria-label="days old input"
+          // defaulting to blank string so react doesn't complain about using undefined in controlled components
+          value={days || ''}
           onChange={(e) => setDays(e.target.value)}
         />
         <span> days old</span>

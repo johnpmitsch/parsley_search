@@ -1,0 +1,199 @@
+{
+    "data":[
+       {
+          "author":"Kelly Fiveash",
+          "authors":[
+             "Kelly Fiveash"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2014/12/facepalm-150x150.jpg",
+          "metadata":"{\"type\":\"brief\",\"title\":\"Twitter outage prevents Twitter fans from griping about Twitter outage [Updated]\",\"post_id\":1221955,\"lower_deck\":\"Microblogging site confirms \\u0022something is technically wrong.\\u0022\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2014\\/12\\/facepalm-150x150.jpg\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2014\\/12\\/facepalm-300x150.jpg\"}",
+          "pub_date":"2016-01-20T09:40:45",
+          "section":"Biz & IT",
+          "tags":[
+             "outage",
+             "twitter",
+             "type: brief"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/2-AMeYd3CcaHzf36rO_y4tK-97A=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2014/12/facepalm-150x150.jpg",
+          "title":"Twitter outage prevents Twitter fans from griping about Twitter outage [Updated]",
+          "url":"https://arstechnica.com/information-technology/2016/01/twitter-outage-prevents-twitter-fans-from-griping-about-twitter-outage/?itm_source=parsely-api"
+       },
+       {
+          "author":"Erica Sadun",
+          "authors":[
+             "Erica Sadun"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/03/TwitterListingImageHongKiat.com.jpg",
+          "metadata":"{\"type\":\"report\",\"title\":\"Twitter weird: a half dozen oddball Twitter experiences\",\"post_id\":62572,\"lower_deck\":\"Twitter can be fun and social. It can also be weird. Ars looks at a half dozen \u2026\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/03\\/TwitterListingImageHongKiat.com.jpg\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/03\\/TwitterListingImageHongKiat.com.jpg\"}",
+          "pub_date":"2009-03-30T10:30:00",
+          "section":"Biz & IT",
+          "tags":[
+             "twitter",
+             "type: report"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/bp1qAURGIdPfJe_wciJzvDl3Q1g=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/03/TwitterListingImageHongKiat.com.jpg",
+          "title":"Twitter weird: a half dozen oddball Twitter experiences",
+          "url":"http://arstechnica.com/business/2009/03/twitter-weird-a-half-dozen-oddball-twitter-experiences/?itm_source=parsely-api"
+       },
+       {
+          "author":"Eric Bangeman",
+          "authors":[
+             "Eric Bangeman"
+          ],
+          "full_content_word_count":0,
+          "image_url":"http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "metadata":"{\"type\":\"brief\",\"title\":\"All a-Twitter\",\"post_id\":83489,\"lower_deck\":\"I hear Twitter is popular these days. But is it for me?\",\"upper_deck\":\"From the minds of Ars\"}",
+          "pub_date":"2007-05-10T00:34:17",
+          "section":"Staff",
+          "tags":[
+             "type: brief"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/h1Lmc2PHchUBrZtdsMzePbyAWRI=/85x85/smart/http%3A//cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "title":"All a-Twitter",
+          "url":"http://arstechnica.com/staff/2007/05/all-a-twitter/?itm_source=parsely-api"
+       },
+       {
+          "author":"Julian Sanchez",
+          "authors":[
+             "Julian Sanchez"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/02/failiphantsm.jpg",
+          "metadata":"{\"type\":\"report\",\"title\":\"Loose Twitters sink congresscritters\",\"post_id\":65363,\"lower_deck\":\"Rep. Pete Hoekstra leaks details of a (supposedly) secret congressional  \u2026\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/02\\/failiphantsm.jpg\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/02\\/failiphantsm.jpg\"}",
+          "pub_date":"2009-02-08T21:26:56",
+          "section":"Law & Disorder",
+          "tags":[
+             "pete-hoekstra",
+             "twitter",
+             "type: report"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/oAw-bDrQqWDa9WKb2OohPX5w8-U=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/02/failiphantsm.jpg",
+          "title":"Loose Twitters sink congresscritters",
+          "url":"http://arstechnica.com/tech-policy/2009/02/loose-twitters-sink-congresscritters/?itm_source=parsely-api"
+       },
+       {
+          "author":"Kurt Mackey",
+          "authors":[
+             "Kurt Mackey"
+          ],
+          "full_content_word_count":0,
+          "image_url":"http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "metadata":"{\"type\":\"brief\",\"title\":\"Twitter is strangely compelling\",\"post_id\":84237,\"lower_deck\":\"There's absolutely no reason in the world that Twitter should be interesting \u2026\",\"upper_deck\":\"From the minds of Ars\"}",
+          "pub_date":"2007-04-07T00:39:00",
+          "section":"Staff",
+          "tags":[
+             "type: brief"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/h1Lmc2PHchUBrZtdsMzePbyAWRI=/85x85/smart/http%3A//cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "title":"Twitter is strangely compelling",
+          "url":"http://arstechnica.com/staff/2007/04/twitter-is-strangely-compelling/?itm_source=parsely-api"
+       },
+       {
+          "author":"Ryan Paul",
+          "authors":[
+             "Ryan Paul"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/06/dead_twitter_ars.jpg",
+          "metadata":"{\"type\":\"report\",\"title\":\"Twitter tells third-party devs to stop making Twitter client apps\",\"post_id\":45813,\"lower_deck\":\"Twitter issued a statement today saying that it doesn't want third-party  \u2026\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/06\\/dead_twitter_ars.jpg\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/06\\/dead_twitter_ars.jpg\"}",
+          "pub_date":"2011-03-12T23:24:31",
+          "section":"Technology Lab",
+          "tags":[
+             "twitter",
+             "type: report"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/A9Sp21253IwLZnhPSSfiD5mAzL8=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/06/dead_twitter_ars.jpg",
+          "title":"Twitter tells third-party devs to stop making Twitter client apps",
+          "url":"http://arstechnica.com/information-technology/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps/?itm_source=parsely-api"
+       },
+       {
+          "author":"Emil Protalinski",
+          "authors":[
+             "Emil Protalinski"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/07/microsoft_twitter_small.png",
+          "metadata":"{\"type\":\"report\",\"title\":\"Microsoft completes embrace of Twitter\",\"post_id\":59422,\"lower_deck\":\"Microsoft has finally embraced Twitter in a big way.\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/07\\/microsoft_twitter_small.png\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/07\\/microsoft_twitter_small.png\"}",
+          "pub_date":"2009-07-06T15:05:00",
+          "section":"Biz & IT",
+          "tags":[
+             "bing",
+             "twitter",
+             "type: report"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/XdOXjU0fMIG7DX7DLZY0wKoi1iE=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/07/microsoft_twitter_small.png",
+          "title":"Microsoft completes embrace of Twitter",
+          "url":"http://arstechnica.com/information-technology/2009/07/microsoft-completes-embrace-of-twitter/?itm_source=parsely-api"
+       },
+       {
+          "author":"Paul Mah",
+          "authors":[
+             "Paul Mah"
+          ],
+          "full_content_word_count":0,
+          "image_url":"http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "metadata":"{\"type\":\"brief\",\"title\":\"WPF-based Twitter client debuts\",\"post_id\":77708,\"lower_deck\":\"If you're a Twitter fan, you might be interested to know about a new stand- \u2026\",\"upper_deck\":\"Information Technology\"}",
+          "pub_date":"2008-01-08T17:57:00",
+          "section":"Biz & IT",
+          "tags":[
+             "microsoft-3",
+             "twitter",
+             "type: brief",
+             "wpf"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/h1Lmc2PHchUBrZtdsMzePbyAWRI=/85x85/smart/http%3A//cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-logo-open-grey.png",
+          "title":"WPF-based Twitter client debuts",
+          "url":"http://arstechnica.com/information-technology/2008/01/wpf-based-twitter-client-debuts/?itm_source=parsely-api"
+       },
+       {
+          "author":"Erica Sadun",
+          "authors":[
+             "Erica Sadun"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/03/BarbaraWaltersListingImage.jpg",
+          "metadata":"{\"type\":\"report\",\"title\":\"Did Barbara Walters take down Twitter?\",\"post_id\":63925,\"lower_deck\":\"Did Barbara Walters of The View single handedly bring down the popular Twitter \u2026\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/03\\/BarbaraWaltersListingImage.jpg\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/03\\/BarbaraWaltersListingImage.jpg\"}",
+          "pub_date":"2009-03-04T22:16:00",
+          "section":"Biz & IT",
+          "tags":[
+             "needsedits",
+             "twitter",
+             "type: report",
+             "web-3"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/RVcnMB1vA5ZBS7K7KUdAgRbB26c=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/03/BarbaraWaltersListingImage.jpg",
+          "title":"Did Barbara Walters take down Twitter?",
+          "url":"http://arstechnica.com/business/2009/03/did-barbara-walters-take-down-twitter/?itm_source=parsely-api"
+       },
+       {
+          "author":"Emil Protalinski",
+          "authors":[
+             "Emil Protalinski"
+          ],
+          "full_content_word_count":0,
+          "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2009/05/wonderwall_celibrifeed.png",
+          "metadata":"{\"type\":\"report\",\"title\":\"Microsoft launches celebrity Twitter aggregator Celebrifeed\",\"post_id\":60650,\"lower_deck\":\"Microsoft has launched a feature on Wonderwall called Celebrifeed, which  \u2026\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/05\\/wonderwall_celibrifeed.png\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2009\\/05\\/wonderwall_celibrifeed.png\"}",
+          "pub_date":"2009-05-27T18:21:00",
+          "section":"Biz & IT",
+          "tags":[
+             "celebrifeed",
+             "msn",
+             "type: report",
+             "wonderwall"
+          ],
+          "thumb_url_medium":"https://images.parsely.com/g0B0vGxkMVWwOgk5JlibPiexHKQ=/85x85/smart/https%3A//cdn.arstechnica.net/wp-content/uploads/2009/05/wonderwall_celibrifeed.png",
+          "title":"Microsoft launches celebrity Twitter aggregator Celebrifeed",
+          "url":"http://arstechnica.com/information-technology/2009/05/microsoft-launches-celebrity-twitter-aggregator-celebrifeed/?itm_source=parsely-api"
+       }
+    ],
+    "links":{
+       "first":"https://api.parsely.com/v2/search?apikey=arstechnica.com&q=twitter&page=1",
+       "next":null
+    },
+    "meta":{
+       "sort":"recency"
+    },
+    "success":true
+ }

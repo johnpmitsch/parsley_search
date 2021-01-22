@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   const [query, setQuery] = useState('');
-  const [days, setDays] = useState(null);
+  const [days, setDays] = useState();
   const [results, setResults] = useState([]);
   const [error, setError] = useState(null);
 
